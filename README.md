@@ -3,8 +3,7 @@
 # Description
 This application helps users generate a ReadMe from the command line. JavaScript and Node were used in addition to the npm package inquirer.
 
-
-##### Table of Contents  
+# Table of Contents  
 [Installation](#installation)  
 
 [Usage](#usage)  
